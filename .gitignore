@@ -2,7 +2,6 @@
 .hg/
 deriveddatacache/
 .vs/
-build/
 PACKPLUGIN/
 COMPPLUGIN/
 saved/
